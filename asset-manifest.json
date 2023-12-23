@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/on-screen-keyboard/static/css/main.40297982.css",
+    "main.js": "/on-screen-keyboard/static/js/main.f3ae82a8.js",
+    "static/js/787.a5bb82d8.chunk.js": "/on-screen-keyboard/static/js/787.a5bb82d8.chunk.js",
+    "index.html": "/on-screen-keyboard/index.html",
+    "main.40297982.css.map": "/on-screen-keyboard/static/css/main.40297982.css.map",
+    "main.f3ae82a8.js.map": "/on-screen-keyboard/static/js/main.f3ae82a8.js.map",
+    "787.a5bb82d8.chunk.js.map": "/on-screen-keyboard/static/js/787.a5bb82d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40297982.css",
+    "static/js/main.f3ae82a8.js"
+  ]
+}
