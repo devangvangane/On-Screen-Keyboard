@@ -1,10 +1,10 @@
 .main{
   height: 100vh;
-  background-position: right center;
+  background-position: center center;
   background-color: rgb(244, 206, 157);
   background-size: 30% 30%;
   background-repeat: no-repeat;
-  justify-content: right;
+  justify-content: center;
   align-items: center;
   display: flex;
   /* background-image: url("C:\Users\devan\OneDrive\Desktop\YouTube\LOGO-Transparent.png"); */
